@@ -22,22 +22,18 @@ What things you need to install the software and how to install them:
 A step-by-step series of examples that tell you how to get a development environment running:
 
 1. Clone the repository
-   
 git clone https://github.com/harold21/WebStore.git
 
 
-3. Install NPM packages
-   
+2. Install NPM packages
 npm install
 
 
-5. Copy `.env.example` to `.env` and update environment variables
-   
+3. Copy `.env.example` to `.env` and update environment variables
 cp .env.example .env
 
 
-7. Run the application
-   
+4. Run the application
 npm start
 
 
@@ -48,7 +44,6 @@ Use Postman or any other API testing tool to interact with the API.
 ## Running the tests
 
 Explain how to run the automated tests for this system:
-
 npm test
 
 
