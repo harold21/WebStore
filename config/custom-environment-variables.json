@@ -1,0 +1,12 @@
+{
+    "mail": {
+      "host": "MAIL_HOST",
+      "password": "MAIL_PASSWORD"
+    },
+    "db": {
+      "host": "DB_HOST",
+      "port": "DB_PORT",
+      "name": "DB_NAME"
+    },
+    "jwtPrivateKey": "STORE_JWTPRIVATEKEY"
+}
